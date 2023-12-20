@@ -69,6 +69,16 @@ _В качестве данных будет использован датасе
 * [Шедеврум](https://shedevrum.ai/) - можно генерировать картинки по описанию, и без использования кода;
 * [Text-To-Image HuggingFace](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending) - генерировать картинки по тексту можно с помощью Python, так гораздо быстрее можно перебрать несколько параметров.
 
+#### TODO
+* Jupyter Notebook API inference;
+* Jupyter Notebook Generative loop (10 epochs);
+
+Будем исползьовать генеративные модели, которые доступны на HuggingFace через API, т.к. порой они требуют чересчур много ресурсов.
+
+#### Ссылки
+* [HuggingFace Inference API](https://huggingface.co/docs/api-inference/quicktour)
+
+
 ## Информация
 **Лектор**: Дмитрий Алексеевич Григорьев
 
