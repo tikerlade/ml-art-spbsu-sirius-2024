@@ -1,4 +1,4 @@
-![sirius_logo](https://github.com/tikerlade/spbsu-sirius-2024/assets/28840497/37780403-7f1c-4402-995c-f07bf4645268)
+![logo](https://github.com/tikerlade/spbsu-sirius-2024/assets/28840497/4f35ab40-371b-48b1-a0a9-7a5a77708a8f)
 
 В этом репозитории будут находиться задания для зимней школы СПбГУ для 11-классников, которая будет проходить в Сириусе с 9 по 13 января 2024 года.
 
