@@ -9,10 +9,10 @@
 		<node id="5" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1)" position="(123.38392857142856, 597.8587662337661)" />
 		<node id="6" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot (2)" position="(1133.9480519480524, 379.7621753246752)" />
 		<node id="7" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (2)" position="(1132.3855519480521, 475.7443181818181)" />
-		<node id="8" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by (1)" position="(1509.6812770562767, 824.4253246753246)" />
-		<node id="9" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (2) (1)" position="(1659.6812770562767, 824.4253246753246)" />
-		<node id="10" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula (1)" position="(1360.7567640692637, 816.4531926406928)" />
-		<node id="11" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (3) (1)" position="(1507.7332251082246, 733.5162337662337)" />
+		<node id="8" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by (1)" position="(1612.5384199134203, 810.1396103896103)" />
+		<node id="9" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (2) (1)" position="(1762.5384199134203, 810.1396103896103)" />
+		<node id="10" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula (1)" position="(1447.8996212121206, 806.4531926406927)" />
+		<node id="11" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (3) (1)" position="(1610.5903679653682, 719.2305194805193)" />
 		<node id="12" name="Purge Domain" qualified_name="Orange.widgets.data.owpurgedomain.OWPurgeDomain" project_name="Orange3" version="" title="Purge Domain (1)" position="(443.5819805194807, 684.9772727272725)" />
 		<node id="13" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data (1)" position="(1126.8165584415583, 968.4090909090911)" />
 		<node id="14" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(641.9526515151516, 692.3482142857144)" />
@@ -21,8 +21,8 @@
 		<node id="17" name="Impute" qualified_name="Orange.widgets.data.owimpute.OWImpute" project_name="Orange3" version="" title="Impute" position="(212.5000000000001, 681.4732142857142)" />
 		<node id="18" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1) (1)" position="(307.75892857142856, 595.9837662337661)" />
 		<node id="19" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula" position="(942.8571428571429, 691.0714285714288)" />
-		<node id="20" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(1338.3333333333335, 818.3333333333333)" />
-		<node id="21" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot" position="(1624.3333333333335, 936.6666666666667)" />
+		<node id="20" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(1319.7619047619048, 808.3333333333331)" />
+		<node id="21" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot" position="(1592.904761904762, 959.5238095238095)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
@@ -79,7 +79,7 @@
 		<arrow id="3" start="(477.43506493506493, 242.2077922077922)" end="(631.3311688311687, 659.090909090909)" fill="#C1272D" />
 		<arrow id="4" start="(348.2142857142857, 257.9545454545455)" end="(903.5714285714287, 666.0714285714287)" fill="#C1272D" />
 		<arrow id="5" start="(200.00000000000003, 313.6363636363637)" end="(1072.7272727272727, 945.4545454545455)" fill="#C1272D" />
-		<text id="6" type="text/markdown" rect="(1263.8961038961036, 442.502164502165, 692.8571428571427, 522.2857142857143)" font-family=".AppleSystemUIFont" font-size="16"># Аггрегатные функции
+		<text id="6" type="text/markdown" rect="(1289.6103896103893, 431.07359307359354, 692.8571428571427, 522.2857142857143)" font-family=".AppleSystemUIFont" font-size="16"># Аггрегатные функции
 
 ---
 
@@ -136,9 +136,9 @@ SwJopUsCaKtLAXWMBW1ldGFzlH2UKGgTSwNoF0sDaBpLA2gdSwNoIEsDaCNLA3V1YmF1Lg==
 		<properties node_id="3" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00&amp;\x00\x00\x06\xbf\x00\x00\x04\x03\x00\x00\x01\xc5\x00\x00\x01\x0e\x00\x00\x04\xe4\x00\x00\x03\x01\x00\x00\x00\x00\x02\x00\x00\x00\x06\xc0\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x06\xbf\x00\x00\x04\x03', 'select_rows': False, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [6039], 'columns': [4]}, 'stored_sort': [('sale_date', 1), ('year', 1)], '__version__': 1}</properties>
 		<properties node_id="4" format="pickle">gASVlQUAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiME3NhdmVk
 V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAb8AAACSAAAGvwAAA9wAAAG/AAAArgAABr8AAAPc
-AAAAAAAAAAAGwAAAAb8AAACuAAAGvwAAA9yUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwIUlJlbGll
-ZkaUjBVVbml2YXJpYXRlIFJlZ3Jlc3Npb26UjBZJbmZvcm1hdGlvbiBHYWluIFJhdGlvlIwNR2lu
-aSBEZWNyZWFzZZSQjAdzb3J0aW5nlEr/////SwCGlIwLX192ZXJzaW9uX1+USwSMEGNvbnRleHRf
+AAAAAAAAAAAGwAAAAb8AAACuAAAGvwAAA9yUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwNR2luaSBE
+ZWNyZWFzZZSMCFJSZWxpZWZGlIwVVW5pdmFyaWF0ZSBSZWdyZXNzaW9ulIwWSW5mb3JtYXRpb24g
+R2FpbiBSYXRpb5SQjAdzb3J0aW5nlEr/////SwCGlIwLX192ZXJzaW9uX1+USwSMEGNvbnRleHRf
 c2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2
 YWx1ZXOUfZQojAluU2VsZWN0ZWSUSwVK/v///4aUjA5zZWxlY3RlZF9hdHRyc5RdlIwPc2VsZWN0
 aW9uTWV0aG9klEsCSv7///+GlGgNSwR1jAphdHRyaWJ1dGVzlH2UKIwGQXV0aG9ylEsBjAhDdXJy
@@ -349,21 +349,21 @@ SwFqUgEAAEsBalUBAABLAWpYAQAASwFqWwEAAEsCal4BAABLAmphAQAASwJqZAEAAEsCamcBAABL
 AmpqAQAASwJqbQEAAEsCanABAABLAWpzAQAASwJqdgEAAEsCankBAABLAmp8AQAASwFqfwEAAEsB
 aoIBAABLAWqFAQAASwFqiAEAAEsBaosBAABLAWqOAQAASwJqkQEAAEsBapQBAABLAmqXAQAASwFq
 mgEAAEsBap0BAABLAmqgAQAASwJqowEAAEsCdWicfZR1YmgKKYGUfZQoaA19lCiMDGFnZ3JlZ2F0
-aW9uc5R9lCho/EtlhpSPlCiMBE1vZGWUjAVDb3VudJSQaP1LZYaUj5QoarQBAACQaP5LZoaUj5Qo
-jARNZWFulJBo/0tlhpSPlChqtAEAAJBqAAEAAEtlhpSPlChqtAEAAJBqAQEAAEtlhpSPlChqtAEA
-AJBqAgEAAEtlhpSPlChqtAEAAJCMBU93bmVylEtmhpSPlChqugEAAJBqAwEAAEtmhpSPlChqugEA
+aW9uc5R9lCho/EtlhpSPlCiMBUNvdW50lIwETW9kZZSQaP1LZYaUj5QoarUBAACQaP5LZoaUj5Qo
+jARNZWFulJBo/0tlhpSPlChqtQEAAJBqAAEAAEtlhpSPlChqtQEAAJBqAQEAAEtlhpSPlChqtQEA
+AJBqAgEAAEtlhpSPlChqtQEAAJCMBU93bmVylEtmhpSPlChqugEAAJBqAwEAAEtmhpSPlChqugEA
 AJBqBAEAAEtmhpSPlChqugEAAJBqBQEAAEtmhpSPlChqugEAAJBqBgEAAEtohpSPlChqugEAAJBq
-BwEAAEtlhpSPlChqtAEAAJBqCAEAAEtlhpSPlChqtAEAAIwFQ291bnSUkGoJAQAAS2WGlI+UKGq0
-AQAAkGoKAQAAS2WGlI+UKGq0AQAAkGoLAQAAS2WGlI+UKGq0AQAAkGoMAQAAS2aGlI+UKGq6AQAA
+BwEAAEtlhpSPlChqtQEAAJBqCAEAAEtlhpSPlCiMBUNvdW50lGq1AQAAkGoJAQAAS2WGlI+UKGq1
+AQAAkGoKAQAAS2WGlI+UKGq1AQAAkGoLAQAAS2WGlI+UKGq1AQAAkGoMAQAAS2aGlI+UKGq6AQAA
 kGoNAQAAS2aGlI+UKGq6AQAAkGoOAQAAS2aGlI+UKGq6AQAAkGoPAQAAS2aGlI+UKGq6AQAAkGoQ
 AQAAS2aGlI+UKGq6AQAAkGoRAQAAS2aGlI+UKGq6AQAAkGoSAQAAS2aGlI+UKGq6AQAAkIwEVGlt
-ZZRLZoaUj5QoaroBAACQahMBAABLZYaUj5QoarQBAACQahQBAABLZoaUj5QoaroBAACQahUBAABL
-ZoaUj5QoaroBAACQahYBAABLZoaUj5QoaroBAACQahcBAABLZYaUj5QoarQBAACQahgBAABLZYaU
-j5QoarQBAACQahkBAABLZYaUj5QoarQBAACQahoBAABLZYaUj5QoarQBAACQahsBAABLZYaUj5Qo
-arQBAACQahwBAABLZYaUj5QoarQBAACQah0BAABLZoaUj5QoaroBAACQah4BAABLZYaUj5QoarQB
-AACQah8BAABLZoaUj5QoaroBAACQjA9kZWFsX3RpbWVfLnV0Yy6US2WGlI+UKGq0AQAAkGogAQAA
-S2WGlI+UKGq0AQAAkGohAQAAS2WGlI+UKGq0AQAAkGoiAQAAS2aGlI+UKGq6AQAAkGojAQAAS2aG
-lI+UKGq6AQAAkGokAQAAS2aGlI+UKGq6AQAAjANTdW2UkIwHQXVjdGlvbpRLZYaUj5QoarQBAACQ
+ZZRLZoaUj5QoaroBAACQahMBAABLZYaUj5QoarUBAACQahQBAABLZoaUj5QoaroBAACQahUBAABL
+ZoaUj5QoaroBAACQahYBAABLZoaUj5QoaroBAACQahcBAABLZYaUj5QoarUBAACQahgBAABLZYaU
+j5QoarUBAACQahkBAABLZYaUj5QoarUBAACQahoBAABLZYaUj5QoarUBAACQahsBAABLZYaUj5Qo
+arUBAACQahwBAABLZYaUj5QoarUBAACQah0BAABLZoaUj5QoaroBAACQah4BAABLZYaUj5QoarUB
+AACQah8BAABLZoaUj5QoaroBAACQjA9kZWFsX3RpbWVfLnV0Yy6US2WGlI+UKGq1AQAAkGogAQAA
+S2WGlI+UKGq1AQAAkGohAQAAS2WGlI+UKGq1AQAAkGoiAQAAS2aGlI+UKGq6AQAAkGojAQAAS2aG
+lI+UKGq6AQAAkGokAQAAS2aGlI+UKGq6AQAAjANTdW2UkIwHQXVjdGlvbpRLZYaUj5QoarUBAACQ
 jApwcmljZV9kaWZmlEtmhpSPlChoG5B1Svz///+GlIwIZ2JfYXR0cnOUXZRqCAEAAEtlhpRhSv3/
 //+GlGgFSwF1aJp9lCho/EsBaP1LAWj+SwJo/0sBagABAABLAWoBAQAASwFqAgEAAEsBasMBAABL
 AmoDAQAASwJqBAEAAEsCagUBAABLAmoGAQAASwRqBwEAAEsBaggBAABLAWoJAQAASwFqCgEAAEsB
@@ -371,21 +371,21 @@ agsBAABLAWoMAQAASwJqDQEAAEsCag4BAABLAmoPAQAASwJqEAEAAEsCahEBAABLAmoSAQAASwJq
 5wEAAEsCahMBAABLAWoUAQAASwJqFQEAAEsCahYBAABLAmoXAQAASwFqGAEAAEsBahkBAABLAWoa
 AQAASwFqGwEAAEsBahwBAABLAWodAQAASwJqHgEAAEsBah8BAABLAmoEAgAASwFqIAEAAEsBaiEB
 AABLAWoiAQAASwJqIwEAAEsCaiQBAABLAmoSAgAASwGMCnByaWNlX2RpZmaUSwJ1aJx9lHViaAop
-gZR9lChoDX2UKGqwAQAAfZQoaPxLZYaUj5QoarQBAABqtQEAAJBo/UtlhpSPlChqtAEAAJBo/ktm
-hpSPlChqugEAAJBo/0tlhpSPlChqtAEAAJBqAAEAAEtlhpSPlChqtAEAAJBqAQEAAEtlhpSPlChq
-tAEAAJBqAgEAAEtlhpSPlChqtAEAAJBqwwEAAEtmhpSPlChqugEAAJBqAwEAAEtmhpSPlChqugEA
+gZR9lChoDX2UKGqwAQAAfZQoaPxLZYaUj5QoarQBAABqtQEAAJBo/UtlhpSPlChqtQEAAJBo/ktm
+hpSPlChqugEAAJBo/0tlhpSPlChqtQEAAJBqAAEAAEtlhpSPlChqtQEAAJBqAQEAAEtlhpSPlChq
+tQEAAJBqAgEAAEtlhpSPlChqtQEAAJBqwwEAAEtmhpSPlChqugEAAJBqAwEAAEtmhpSPlChqugEA
 AJBqBAEAAEtmhpSPlChqugEAAJBqBQEAAEtmhpSPlChqugEAAJBqBgEAAEtohpSPlChqugEAAJBq
-BwEAAEtlhpSPlChqtAEAAJBqCAEAAEtlhpSPlChqtAEAAGrSAQAAkGoJAQAAS2WGlI+UKGq0AQAA
-kGoKAQAAS2WGlI+UKGq0AQAAkGoLAQAAS2WGlI+UKGq0AQAAkGoMAQAAS2aGlI+UKGq6AQAAkGoN
+BwEAAEtlhpSPlChqtQEAAJBqCAEAAEtlhpSPlChq0gEAAGq1AQAAkGoJAQAAS2WGlI+UKGq1AQAA
+kGoKAQAAS2WGlI+UKGq1AQAAkGoLAQAAS2WGlI+UKGq1AQAAkGoMAQAAS2aGlI+UKGq6AQAAkGoN
 AQAAS2aGlI+UKGq6AQAAkGoOAQAAS2aGlI+UKGq6AQAAkGoPAQAAS2aGlI+UKGq6AQAAkGoQAQAA
 S2aGlI+UKGq6AQAAkGoRAQAAS2aGlI+UKGq6AQAAkGoSAQAAS2aGlI+UKGq6AQAAkGrnAQAAS2aG
-lI+UKGq6AQAAkGoTAQAAS2WGlI+UKGq0AQAAkGoUAQAAS2aGlI+UKGq6AQAAkGoVAQAAS2aGlI+U
-KGq6AQAAkGoWAQAAS2aGlI+UKGq6AQAAkGoXAQAAS2WGlI+UKGq0AQAAkGoYAQAAS2WGlI+UKGq0
-AQAAkGoZAQAAS2WGlI+UKGq0AQAAkGoaAQAAS2WGlI+UKGq0AQAAkGobAQAAS2WGlI+UKGq0AQAA
-kGocAQAAS2WGlI+UKGq0AQAAkGodAQAAS2aGlI+UKGq6AQAAkGoeAQAAS2WGlI+UKGq0AQAAkGof
-AQAAS2aGlI+UKGq6AQAAkGoEAgAAS2WGlI+UKGq0AQAAkGogAQAAS2WGlI+UKGq0AQAAkGohAQAA
-S2WGlI+UKGq0AQAAkGoiAQAAS2aGlI+UKGq6AQAAkGojAQAAS2aGlI+UKGq6AQAAkGokAQAAS2aG
-lI+UKGq6AQAAahECAACQahICAABLZYaUj5QoarQBAACQdUr8////hpRqGQIAAF2UaggBAABLZYaU
+lI+UKGq6AQAAkGoTAQAAS2WGlI+UKGq1AQAAkGoUAQAAS2aGlI+UKGq6AQAAkGoVAQAAS2aGlI+U
+KGq6AQAAkGoWAQAAS2aGlI+UKGq6AQAAkGoXAQAAS2WGlI+UKGq1AQAAkGoYAQAAS2WGlI+UKGq1
+AQAAkGoZAQAAS2WGlI+UKGq1AQAAkGoaAQAAS2WGlI+UKGq1AQAAkGobAQAAS2WGlI+UKGq1AQAA
+kGocAQAAS2WGlI+UKGq1AQAAkGodAQAAS2aGlI+UKGq6AQAAkGoeAQAAS2WGlI+UKGq1AQAAkGof
+AQAAS2aGlI+UKGq6AQAAkGoEAgAAS2WGlI+UKGq1AQAAkGogAQAAS2WGlI+UKGq1AQAAkGohAQAA
+S2WGlI+UKGq1AQAAkGoiAQAAS2aGlI+UKGq6AQAAkGojAQAAS2aGlI+UKGq6AQAAkGokAQAAS2aG
+lI+UKGq6AQAAahECAACQahICAABLZYaUj5QoarUBAACQdUr8////hpRqGQIAAF2UaggBAABLZYaU
 YUr9////hpRoBUsBdWiafZQojAZBdXRob3KUSwGMCEN1cnJlbmN5lEsBjAR5ZWFylEsCjAhoYXNB
 ZnRlcpRLAYwIY2lyY2xlT2aUSwGMCG1hbm5lck9mlEsBjAxoYXNGb2xsb3dlcnOUSwGMBU93bmVy
 lEsCjBBub3JtYWxpemVkX3ByaWNllEsCjAxVbm5hbWVkOiAwLjGUSwKMClVubmFtZWQ6IDCUSwKM
