@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <scheme version="2.0" title="" description="">
 	<nodes>
-		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import (1)" position="(-380.78665028665023, 668.665811103311)" />
-		<node id="1" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (4)" position="(-254.8587261471298, 576.531859801438)" />
-		<node id="2" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns (1)" position="(-20.86169026756363, 674.7172390862149)" />
-		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (1) (1)" position="(120.76055194805224, 414.2589285714285)" />
-		<node id="4" name="Rank" qualified_name="Orange.widgets.data.owrank.OWRank" project_name="Orange3" version="" title="Rank (1)" position="(125.79870129870153, 509.23944805194805)" />
-		<node id="5" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1)" position="(123.38392857142856, 597.8587662337661)" />
-		<node id="6" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot (2)" position="(1133.9480519480524, 379.7621753246752)" />
-		<node id="7" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (2)" position="(1132.3855519480521, 475.7443181818181)" />
-		<node id="8" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by (1)" position="(1612.5384199134203, 810.1396103896103)" />
-		<node id="9" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (2) (1)" position="(1762.5384199134203, 810.1396103896103)" />
-		<node id="10" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula (1)" position="(1447.8996212121206, 806.4531926406927)" />
-		<node id="11" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (3) (1)" position="(1610.5903679653682, 719.2305194805193)" />
-		<node id="12" name="Purge Domain" qualified_name="Orange.widgets.data.owpurgedomain.OWPurgeDomain" project_name="Orange3" version="" title="Purge Domain (1)" position="(443.5819805194807, 684.9772727272725)" />
-		<node id="13" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data (1)" position="(1126.8165584415583, 968.4090909090911)" />
-		<node id="14" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(641.9526515151516, 692.3482142857144)" />
-		<node id="15" name="Correlations" qualified_name="Orange.widgets.data.owcorrelations.OWCorrelations" project_name="Orange3" version="" title="Correlations" position="(601.3750000000001, 555.3482142857142)" />
-		<node id="16" name="Outliers" qualified_name="Orange.widgets.data.owoutliers.OWOutliers" project_name="Orange3" version="" title="Outliers" position="(797.3484848484846, 690.8482142857142)" />
-		<node id="17" name="Impute" qualified_name="Orange.widgets.data.owimpute.OWImpute" project_name="Orange3" version="" title="Impute" position="(212.5000000000001, 681.4732142857142)" />
-		<node id="18" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1) (1)" position="(307.75892857142856, 595.9837662337661)" />
-		<node id="19" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula" position="(942.8571428571429, 691.0714285714288)" />
-		<node id="20" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(1319.7619047619048, 808.3333333333331)" />
-		<node id="21" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot" position="(1592.904761904762, 959.5238095238095)" />
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import (1)" position="(842.5466830466834, 1665.3324777699777)" />
+		<node id="1" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (4)" position="(968.4746071862036, 1573.1985264681048)" />
+		<node id="2" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns (1)" position="(1202.4716430657695, 1671.3839057528817)" />
+		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (1) (1)" position="(1344.0938852813856, 1410.9255952380952)" />
+		<node id="4" name="Rank" qualified_name="Orange.widgets.data.owrank.OWRank" project_name="Orange3" version="" title="Rank (1)" position="(1349.132034632035, 1505.9061147186148)" />
+		<node id="5" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1)" position="(1346.717261904762, 1594.5254329004329)" />
+		<node id="6" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot (2)" position="(2357.2813852813856, 1376.4288419913419)" />
+		<node id="7" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (2)" position="(2355.7188852813856, 1472.4109848484848)" />
+		<node id="8" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by (1)" position="(2835.8717532467535, 1806.806277056277)" />
+		<node id="9" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (2) (1)" position="(2985.8717532467535, 1806.806277056277)" />
+		<node id="10" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula (1)" position="(2671.2329545454536, 1803.1198593073595)" />
+		<node id="11" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (3) (1)" position="(2833.9237012987014, 1715.897186147186)" />
+		<node id="12" name="Purge Domain" qualified_name="Orange.widgets.data.owpurgedomain.OWPurgeDomain" project_name="Orange3" version="" title="Purge Domain (1)" position="(1666.915313852814, 1681.6439393939393)" />
+		<node id="13" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data (1)" position="(2350.149891774892, 1965.075757575758)" />
+		<node id="14" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(1865.285984848485, 1689.0148809523812)" />
+		<node id="15" name="Correlations" qualified_name="Orange.widgets.data.owcorrelations.OWCorrelations" project_name="Orange3" version="" title="Correlations" position="(1635.540358451073, 1062.2189625850338)" />
+		<node id="16" name="Outliers" qualified_name="Orange.widgets.data.owoutliers.OWOutliers" project_name="Orange3" version="" title="Outliers" position="(2020.681818181818, 1687.514880952381)" />
+		<node id="17" name="Impute" qualified_name="Orange.widgets.data.owimpute.OWImpute" project_name="Orange3" version="" title="Impute" position="(1435.8333333333335, 1678.139880952381)" />
+		<node id="18" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (1) (1)" position="(1531.092261904762, 1592.6504329004329)" />
+		<node id="19" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula" position="(2166.190476190476, 1689.4924812030076)" />
+		<node id="20" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(2543.095238095238, 1805.0)" />
+		<node id="21" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot" position="(2816.238095238095, 1956.1904761904761)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
@@ -48,55 +48,41 @@
 		<link id="20" source_node_id="10" sink_node_id="21" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
 	</links>
 	<annotations>
-		<text id="0" type="text/markdown" rect="(1064.1292441786761, 126.82665776160721, 522.41874073588, 422.77922077922074)" font-family=".AppleSystemUIFont" font-size="16"># Графики
-
----
-
-## &lt;span style="color:green"&gt;Домашнее Задание&lt;/span&gt;
-
-
-1. В какой день недели лоты продаются больше всего?
-    * _поможет признак `day_of_week`_
-2. В каких городах аукционы проводятся только в один день недели?  </text>
-		<text id="1" type="text/markdown" rect="(-51.92977949002051, 24.903460102255053, 931.4086814086809, 624.6592956592956)" font-family=".AppleSystemUIFont" font-size="16"># Подготовка данных
+		<text id="0" type="text/markdown" rect="(2295.46257751201, 1184.4933244282738, 522.41874073588, 422.77922077922074)" font-family=".AppleSystemUIFont" font-size="16"># Графики</text>
+		<text id="1" type="text/markdown" rect="(1039.5115970605991, 608.7153848721632, 931.4086814086809, 624.6592956592956)" font-family=".AppleSystemUIFont" font-size="16"># Подготовка данных
 1. Удаляем текстовые признаки (т.к. не умеем с ними работать)
 2. Заполняем пропуски в данных (т.к. методы машинного обучения не умеют с ними работать)
 3. Выбрасываем константные признаки (т.к. они не несут смысла)
-
----
-
-## &lt;span style="color:green"&gt;Домашнее Задание&lt;/span&gt;
-
-4. Убираем коллинеарные / созависимые колонки (т.к. они тоже не несут смысла)
-5. Прологарифмировать признаки
+4. Убираем коллинеарные (созависимые) колонки (т.к. они тоже не несут смысла)
+5. Прологарифмировать признаки связанные с деньгами
     * `normalized_estimatefrom`
     * `normalized_estimateto`
+    * `normalized_price`
 6. Сохранить подготовленный датасет в файл `christies_auction_clean.csv`
  </text>
-		<text id="2" type="text/markdown" rect="(-442.1785421785422, 432.8160173160173, 368.3456183456183, 259.74283374283345)" font-family=".AppleSystemUIFont" font-size="16"># Загрузка данных
+		<text id="2" type="text/markdown" rect="(781.154791154791, 1429.482683982684, 368.3456183456183, 259.74283374283345)" font-family=".AppleSystemUIFont" font-size="16"># Загрузка данных
 * Считываем данные в `.csv` формате
 * Смотрим какие в данных есть признаки</text>
-		<arrow id="3" start="(477.43506493506493, 242.2077922077922)" end="(631.3311688311687, 659.090909090909)" fill="#C1272D" />
-		<arrow id="4" start="(348.2142857142857, 257.9545454545455)" end="(903.5714285714287, 666.0714285714287)" fill="#C1272D" />
-		<arrow id="5" start="(200.00000000000003, 313.6363636363637)" end="(1072.7272727272727, 945.4545454545455)" fill="#C1272D" />
-		<text id="6" type="text/markdown" rect="(1289.6103896103893, 431.07359307359354, 692.8571428571427, 522.2857142857143)" font-family=".AppleSystemUIFont" font-size="16"># Аггрегатные функции
+		<text id="3" type="text/markdown" rect="(2300.69882498454, 882.5068413729132, 692.8571428571427, 522.2857142857143)" font-family=".AppleSystemUIFont" font-size="16"># Аггрегатные функции
 
 ---
 
 ## &lt;span style="color:green"&gt;Домашнее Задание&lt;/span&gt;
+
+0. Выбрать интересного художника
 
 Посчитать следующие описательные статистики для понравившегося художника:
 
-1. Отсортировать картины этого художника по недооцененности
-2. В каких городах сколько лотов художника было продано
-3. Как были распределены продажи картин этого художника по годам 
+1. Топ-10 самых перепроданых картин (у которых price больше estimate_to)
+2. Топ-3 городов в которых было продано больше всего картин этого художника
+3. Как были распределены продажи картин этого художника по годам (Box Plot диаграмма)
 
 
 
 </text>
-		<arrow id="7" start="(1333.333333333333, 678.3333333333333)" end="(1334.9999999999998, 778.3333333333335)" fill="#C1272D" />
-		<arrow id="8" start="(1390.0, 683.3333333333333)" end="(1583.3333333333335, 916.6666666666667)" fill="#C1272D" />
-		<arrow id="9" start="(1516.6666666666667, 676.6666666666667)" end="(1731.6666666666667, 800.0)" fill="#C1272D" />
+		<arrow id="4" start="(2366.2967687074834, 1175.8290816326526)" end="(2346.08843537415, 1285.204081632653)" fill="#C1272D" />
+		<arrow id="5" start="(2435.4634353741494, 1179.2665816326535)" end="(2594.421768707484, 1423.5374149659867)" fill="#C1272D" />
+		<arrow id="6" start="(2480.8801020408164, 1158.5374149659863)" end="(2727.1301020408164, 1295.9332482993195)" fill="#C1272D" />
 	</annotations>
 	<thumbnail />
 	<node_properties>
@@ -162,9 +148,9 @@ aL1LA2jASwNow0sDdXViZXUu
 		<properties node_id="3" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00&amp;\x00\x00\x06\xbf\x00\x00\x04\x03\x00\x00\x01\xc5\x00\x00\x01\x0e\x00\x00\x04\xe4\x00\x00\x03\x01\x00\x00\x00\x00\x02\x00\x00\x00\x06\xc0\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x06\xbf\x00\x00\x04\x03', 'select_rows': False, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [6933], 'columns': [32]}, 'stored_sort': [('sale_date', 1), ('year', 1)], '__version__': 1}</properties>
 		<properties node_id="4" format="pickle">gASVZggAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiME3NhdmVk
 V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAb8AAACSAAAGvwAAA9wAAAG/AAAArgAABr8AAAPc
-AAAAAAAAAAAGwAAAAb8AAACuAAAGvwAAA9yUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwNR2luaSBE
-ZWNyZWFzZZSMCFJSZWxpZWZGlIwVVW5pdmFyaWF0ZSBSZWdyZXNzaW9ulIwWSW5mb3JtYXRpb24g
-R2FpbiBSYXRpb5SQjAdzb3J0aW5nlEr/////SwCGlIwLX192ZXJzaW9uX1+USwSMEGNvbnRleHRf
+AAAAAAAAAAAGwAAAAb8AAACuAAAGvwAAA9yUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwIUlJlbGll
+ZkaUjBZJbmZvcm1hdGlvbiBHYWluIFJhdGlvlIwVVW5pdmFyaWF0ZSBSZWdyZXNzaW9ulIwNR2lu
+aSBEZWNyZWFzZZSQjAdzb3J0aW5nlEr/////SwCGlIwLX192ZXJzaW9uX1+USwSMEGNvbnRleHRf
 c2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2
 YWx1ZXOUfZQojAluU2VsZWN0ZWSUSwVK/v///4aUjA5zZWxlY3RlZF9hdHRyc5RdlIwPc2VsZWN0
 aW9uTWV0aG9klEsCSv7///+GlGgNSwR1jAphdHRyaWJ1dGVzlH2UKIwIQ3VycmVuY3mUSwGMBHll
@@ -460,8 +446,8 @@ AQAAS2WGlI+UKGo/AgAAkGqiAQAAS2WGlI+UKGo/AgAAkGqjAQAAS2WGlI+UKGo/AgAAkGqkAQAA
 S2WGlI+UKGo/AgAAkGqlAQAAS2WGlI+UKGo/AgAAkGqmAQAAS2WGlI+UKGo/AgAAkGqnAQAAS2aG
 lI+UKGpEAgAAkGqoAQAAS2WGlI+UKGo/AgAAkGqpAQAAS2aGlI+UKGpEAgAAkIwPZGVhbF90aW1l
 Xy51dGMulEtlhpSPlChqPwIAAJBqqgEAAEtlhpSPlChqPwIAAJBqqwEAAEtlhpSPlChqPwIAAJBq
-rAEAAEtmhpSPlChqRAIAAJBqrQEAAEtmhpSPlChqRAIAAJBqrgEAAEtmhpSPlChqRAIAAIwDU3Vt
-lJCMB0F1Y3Rpb26US2WGlI+UKGo/AgAAkIwKcHJpY2VfZGlmZpRLZoaUj5QoaKeQdUr8////hpSM
+rAEAAEtmhpSPlChqRAIAAJBqrQEAAEtmhpSPlChqRAIAAJBqrgEAAEtmhpSPlCiMA1N1bZRqRAIA
+AJCMB0F1Y3Rpb26US2WGlI+UKGo/AgAAkIwKcHJpY2VfZGlmZpRLZoaUj5QoaKeQdUr8////hpSM
 CGdiX2F0dHJzlF2UapIBAABLZYaUYUr9////hpRoBUsBdWiUfZQoaoYBAABLAWqHAQAASwFqiAEA
 AEsCaokBAABLAWqKAQAASwFqiwEAAEsBaowBAABLAWpNAgAASwJqjQEAAEsCao4BAABLAmqPAQAA
 SwJqkAEAAEsEapEBAABLAWqSAQAASwFqkwEAAEsBapQBAABLAWqVAQAASwFqlgEAAEsCapcBAABL
@@ -482,8 +468,8 @@ oAEAAEtmhpSPlChqRAIAAJBqoQEAAEtlhpSPlChqPwIAAJBqogEAAEtlhpSPlChqPwIAAJBqowEA
 AEtlhpSPlChqPwIAAJBqpAEAAEtlhpSPlChqPwIAAJBqpQEAAEtlhpSPlChqPwIAAJBqpgEAAEtl
 hpSPlChqPwIAAJBqpwEAAEtmhpSPlChqRAIAAJBqqAEAAEtlhpSPlChqPwIAAJBqqQEAAEtmhpSP
 lChqRAIAAJBqjgIAAEtlhpSPlChqPwIAAJBqqgEAAEtlhpSPlChqPwIAAJBqqwEAAEtlhpSPlChq
-PwIAAJBqrAEAAEtmhpSPlChqRAIAAJBqrQEAAEtmhpSPlChqRAIAAJBqrgEAAEtmhpSPlChqRAIA
-AGqbAgAAkGqcAgAAS2WGlI+UKGo/AgAAkHVK/P///4aUaqMCAABdlGqSAQAAS2WGlGFK/f///4aU
+PwIAAJBqrAEAAEtmhpSPlChqRAIAAJBqrQEAAEtmhpSPlChqRAIAAJBqrgEAAEtmhpSPlChqmwIA
+AGpEAgAAkGqcAgAAS2WGlI+UKGo/AgAAkHVK/P///4aUaqMCAABdlGqSAQAAS2WGlGFK/f///4aU
 aAVLAXVolH2UKIwGQXV0aG9ylEsBjAhDdXJyZW5jeZRLAYwEeWVhcpRLAowIaGFzQWZ0ZXKUSwGM
 CGNpcmNsZU9mlEsBjAhtYW5uZXJPZpRLAYwMaGFzRm9sbG93ZXJzlEsBjAVPd25lcpRLAowQbm9y
 bWFsaXplZF9wcmljZZRLAowMVW5uYW1lZDogMC4xlEsCjApVbm5hbWVkOiAwlEsCjAlzYWxlX2Rh
