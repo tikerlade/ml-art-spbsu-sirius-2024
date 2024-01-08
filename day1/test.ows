@@ -17,7 +17,7 @@
 		<node id="13" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (3)" position="(908.0, 249.0)" />
 		<node id="14" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(631.0, 371.0)" />
 		<node id="15" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot (1)" position="(788.0, 464.0)" />
-		<node id="16" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (1)" position="(781.0, 558.0)" />
+		<node id="16" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (1)" position="(792.0, 558.0)" />
 		<node id="17" name="Purge Domain" qualified_name="Orange.widgets.data.owpurgedomain.OWPurgeDomain" project_name="Orange3" version="" title="Purge Domain" position="(534.0, 370.0)" />
 	</nodes>
 	<links>
@@ -133,8 +133,8 @@ ZXRHZW9tZXRyeZRDQgHZ0MsAAwAAAAABXwAAAEwAAAUXAAADAgAAAV8AAABoAAAFFwAAAwIAAAAA
 AAAAAAbAAAABXwAAAGgAAAUXAAADApSMEHNob3dfYW5ub3RhdGlvbnOUiIwLc2hvd19sYWJlbHOU
 iIwNc2lnX3RocmVzaG9sZJRHP6mZmZmZmZqMCnNvcnRfZnJlcXOUiYwIc3RhdHRlc3SUSwCMCXN0
 cmV0Y2hlZJSIjAtfX3ZlcnNpb25fX5RLAYwQY29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdld2lk
-Z2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwJYXR0cmlidXRllIwQ
-bm9ybWFsaXplZF9wcmljZZRLZoaUjAlncm91cF92YXKUTkr+////hpSMCXNlbGVjdGlvbpQpSv7/
+Z2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwJYXR0cmlidXRllIwG
+QXV0aG9ylEtlhpSMCWdyb3VwX3ZhcpSMC25hdGlvbmFsaXR5lEtlhpSMCXNlbGVjdGlvbpQpSv7/
 //+GlGgNSwF1jAphdHRyaWJ1dGVzlH2UKIwGQXV0aG9ylEsBjAhDdXJyZW5jeZRLAYwEeWVhcpRL
 AowIaGFzQWZ0ZXKUSwGMCGNpcmNsZU9mlEsBjAhtYW5uZXJPZpRLAYwMaGFzRm9sbG93ZXJzlEsB
 jAVPd25lcpRLAowQbm9ybWFsaXplZF9wcmljZZRLAowMVW5uYW1lZDogMC4xlEsCjApVbm5hbWVk

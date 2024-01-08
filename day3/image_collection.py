@@ -31,5 +31,4 @@ df = df.loc[df['Image'] != '�']
 df = df.loc[~df['Image'].isna()]
 
 images = df['Image'].to_list()
-
-df.apply(get_images, axis=1).reset_index()[['image', 'normalized_price', 'Loaded']].to_csv('images.csv')
+df.apply(get_images, axis=1).reset_index()[['image', 'normalized_price', 'Loaded']].to_csv('./../images.csv')
