@@ -3,6 +3,8 @@
     <img width="600" alt="Результат Дня №1" src="./../pics/day1_orange_pipeline.png">
 </p>
 
+
+
 * Запись занятия - [будет тут]()
 * Слайды лекции - [пока еще не тут]()
 * Слайды практики - [тут](https://docs.google.com/presentation/d/1yS6nTfpcG6Xc0W8OafAbKYNqofcSrVe_1LFQjME-7b8/edit?usp=sharing)
