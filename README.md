@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="150px" alt="Sirius 2024 ML & Art" src="./pics/sirius_logo.png">
+    <img height="250px" alt="Sirius 2024 ML & Art" src="./pics/sirius_logo.png">
 </p>
 
 # ИИ раскрывает искусство: как машинное обучение помогает находить неизвестные закономерности на арт-рынке
