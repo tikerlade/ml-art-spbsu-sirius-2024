@@ -3,11 +3,9 @@
     <img width="600" alt="Результат Дня №1" src="./../pics/day1_orange_pipeline.png">
 </p>
 
+[День 1](https://drive.google.com/drive/folders/1XK6umMuGDUL4eB779CHOYX_Jj0xb1Z0H?usp=sharing) - облако, в которм лежат материалы этого дня (слайды, запись занятия).
 
-
-* Запись занятия - [будет тут]()
-* Слайды лекции - [пока еще не тут]()
-* Слайды практики - [тут](https://docs.google.com/presentation/d/1yS6nTfpcG6Xc0W8OafAbKYNqofcSrVe_1LFQjME-7b8/edit?usp=sharing)
+*В будущем тут может появиться краткий обзор Дня 1*
 
 ## Домашнее Задание
 0. Выбрать интересного ВАМ художника из датасета. Список всех уникальных художников в датасете можно например по выходу кубика `Group By`
