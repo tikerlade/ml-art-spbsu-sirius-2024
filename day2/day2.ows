@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <scheme version="2.0" title="" description="">
 	<nodes>
-		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import" position="(134.6111111111111, 260.7777777777777)" />
-		<node id="1" name="Correlations" qualified_name="Orange.widgets.data.owcorrelations.OWCorrelations" project_name="Orange3" version="" title="Correlations" position="(699.7222222222223, 181.44444444444443)" />
-		<node id="2" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(595.8333333333334, 268.7777777777777)" />
-		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table" position="(271.0, 189.0)" />
-		<node id="4" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression" position="(633.3900326174438, 457.1463760748931)" />
-		<node id="5" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score" position="(794.3913246071078, 337.27557504130135)" />
-		<node id="6" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(901.8034693099511, 336.27557504130135)" />
-		<node id="7" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network" position="(643.7556656923801, 674.2484432583558)" />
-		<node id="8" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network (1)" position="(643.9184563900538, 745.1760918371672)" />
-		<node id="9" name="Stacking" qualified_name="Orange.widgets.model.owstack.OWStackedLearner" project_name="Orange3" version="" title="Stacking" position="(913.4033337569371, 538.3556784004745)" />
-		<node id="10" name="Random Forest" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" project_name="Orange3" version="" title="Random Forest" position="(647.7543737027148, 976.6631719405261)" />
-		<node id="11" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting" position="(646.365484813827, 899.0468928707592)" />
-		<node id="12" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree" position="(634.866776803491, 557.8324225865208)" />
-		<node id="13" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1)" position="(805.7170966238829, 499.2393993307073)" />
-		<node id="14" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula" position="(487.9444444444444, 269.4444444444446)" />
-		<node id="15" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree (1)" position="(1212.671220400729, 116.27959927140262)" />
-		<node id="16" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting (1)" position="(1221.004553734063, 352.3907103825136)" />
-		<node id="17" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (2)" position="(1223.7823315118403, 428.77959927140256)" />
-		<node id="18" name="Rank" qualified_name="Orange.widgets.data.owrank.OWRank" project_name="Orange3" version="" title="Rank" position="(1366.3934426229516, 270.4462659380695)" />
-		<node id="19" name="Tree Viewer" qualified_name="Orange.widgets.visualize.owtreeviewer.OWTreeGraph" project_name="Orange3" version="" title="Tree Viewer" position="(1362.67122040073, 124.61293260473587)" />
-		<node id="20" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting (2)" position="(807.2261405515319, 592.6580039818691)" />
-		<node id="21" name="Save Model" qualified_name="Orange.widgets.model.owsavemodel.OWSaveModel" project_name="Orange3" version="" title="Save Model" position="(1364.0601092896177, -7.3315118397084404)" />
-		<node id="22" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(1223.7062280110802, 260.7240437158471)" />
-		<node id="23" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (1)" position="(1080.2823315118394, 267.6684881602914)" />
-		<node id="24" name="Random Forest" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" project_name="Orange3" version="" title="Random Forest (1)" position="(809.0909090909092, 676.1363636363637)" />
-		<node id="25" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree (2)" position="(809.8667768034911, 763.0596953137934)" />
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import" position="(269.531746031746, 503.6349206349206)" />
+		<node id="1" name="Correlations" qualified_name="Orange.widgets.data.owcorrelations.OWCorrelations" project_name="Orange3" version="" title="Correlations" position="(834.6428571428573, 424.30158730158723)" />
+		<node id="2" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(730.7539682539682, 511.6349206349206)" />
+		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table" position="(405.92063492063494, 431.8571428571428)" />
+		<node id="4" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression" position="(768.3106675380786, 700.003518932036)" />
+		<node id="5" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score" position="(929.3119595277426, 580.1327178984442)" />
+		<node id="6" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(1036.724104230586, 579.1327178984442)" />
+		<node id="7" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network" position="(778.676300613015, 917.1055861154986)" />
+		<node id="8" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network (1)" position="(778.8390913106887, 988.03323469431)" />
+		<node id="9" name="Stacking" qualified_name="Orange.widgets.model.owstack.OWStackedLearner" project_name="Orange3" version="" title="Stacking" position="(1048.3239686775719, 781.2128212576174)" />
+		<node id="10" name="Random Forest" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" project_name="Orange3" version="" title="Random Forest" position="(782.6750086233496, 1219.520314797669)" />
+		<node id="11" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting" position="(781.2861197344619, 1141.9040357279018)" />
+		<node id="12" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree" position="(769.7874117241258, 800.6895654436637)" />
+		<node id="13" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1)" position="(940.6377315445179, 742.0965421878501)" />
+		<node id="14" name="Formula" qualified_name="Orange.widgets.data.owfeatureconstructor.OWFeatureConstructor" project_name="Orange3" version="" title="Formula" position="(622.8650793650793, 512.3015873015875)" />
+		<node id="15" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree (1)" position="(1347.591855321364, 359.1367421285454)" />
+		<node id="16" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting (1)" position="(1355.9251886546979, 595.2478532396564)" />
+		<node id="17" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (2)" position="(1358.7029664324753, 671.6367421285454)" />
+		<node id="18" name="Rank" qualified_name="Orange.widgets.data.owrank.OWRank" project_name="Orange3" version="" title="Rank" position="(1501.3140775435866, 513.3034087952122)" />
+		<node id="19" name="Tree Viewer" qualified_name="Orange.widgets.visualize.owtreeviewer.OWTreeGraph" project_name="Orange3" version="" title="Tree Viewer" position="(1497.5918553213648, 367.47007546187876)" />
+		<node id="20" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting (2)" position="(942.1467754721668, 835.515146839012)" />
+		<node id="21" name="Save Model" qualified_name="Orange.widgets.model.owsavemodel.OWSaveModel" project_name="Orange3" version="" title="Save Model" position="(1498.9807442102526, 235.5256310174344)" />
+		<node id="22" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(1358.626862931715, 503.58118657298985)" />
+		<node id="23" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (1)" position="(1215.2029664324743, 510.5256310174342)" />
+		<node id="24" name="Random Forest" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" project_name="Orange3" version="" title="Random Forest (1)" position="(944.0115440115442, 918.9935064935065)" />
+		<node id="25" name="Tree" qualified_name="Orange.widgets.model.owtree.OWTreeLearner" project_name="Orange3" version="" title="Tree (2)" position="(944.7874117241261, 1005.9168381709363)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="2" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
@@ -58,18 +58,18 @@
 		<link id="26" source_node_id="25" sink_node_id="9" source_channel="Learner" sink_channel="Learners" enabled="true" source_channel_id="learner" sink_channel_id="learners" />
 	</links>
 	<annotations>
-		<text id="0" type="text/markdown" rect="(85.0, 5.0, 284.0, 189.0)" font-family=".AppleSystemUIFont" font-size="16"># Загрузка данных
+		<text id="0" type="text/markdown" rect="(219.92063492063494, 247.8571428571428, 284.0, 189.0)" font-family=".AppleSystemUIFont" font-size="16"># Загрузка данных
 * Считываем данные в `.csv` формате
 * Смотрим какие в данных есть признаки</text>
-		<text id="1" type="text/markdown" rect="(1138.6156648451733, -148.77595628415312, 513.8888888888888, 88.0)" font-family=".AppleSystemUIFont" font-size="16"># Проводим более изберательные эксперименты</text>
-		<text id="2" type="text/markdown" rect="(445.8333333333335, 91.88888888888887, 275.0, 46.3888888888889)" font-family=".AppleSystemUIFont" font-size="16">## Вспоминаем гипотезу</text>
-		<text id="3" type="text/markdown" rect="(1427.504553734062, 40.11293260473599, 298.6111111111113, 147.49999999999991)" font-family=".AppleSystemUIFont" font-size="16">## Визуализируем дерево решений
+		<text id="1" type="text/markdown" rect="(1273.5362997658083, 94.08118657298974, 513.8888888888888, 88.0)" font-family=".AppleSystemUIFont" font-size="16"># Проводим более изберательные эксперименты</text>
+		<text id="2" type="text/markdown" rect="(580.7539682539684, 334.7460317460317, 275.0, 46.3888888888889)" font-family=".AppleSystemUIFont" font-size="16">## Вспоминаем гипотезу</text>
+		<text id="3" type="text/markdown" rect="(1562.425188654697, 282.97007546187876, 298.6111111111113, 147.49999999999991)" font-family=".AppleSystemUIFont" font-size="16">## Визуализируем дерево решений
 * Смотрим в каких узлах по какому признаку происходит принятие решения</text>
-		<text id="4" type="text/markdown" rect="(1431.610833927299, 247.05737704918056, 354.16666666666674, 448.0)" font-family=".AppleSystemUIFont" font-size="16">## Смотрим на значимость признаков
+		<text id="4" type="text/markdown" rect="(1566.531468847934, 489.91451990632333, 354.16666666666674, 448.0)" font-family=".AppleSystemUIFont" font-size="16">## Смотрим на значимость признаков
 
 * Почему это у нас Linear Regression не использует переменную estimateto?
 
-* ПОКА НЕ ПРИДУМАЛ, но про коллинеарность
+* Попробуем сломать Linear Regression коллинеарностью
 
 ---
 
@@ -78,17 +78,17 @@
 1. Найти Топ-3 самых важных признаков для моделей Градиентного Бустинга и Линейной Регрессии, если удалить все признаки, связанные оценкой цены
 2. Выбрать стиль, который нравится вам больше, чем остальные
 3. Найти Топ-3 признаков, влияющих на предсказание цены для картин, написанных в данном стиле (почему они могут отличаться от признаков из п. 1)</text>
-		<text id="5" type="text/plain" rect="(386.88524590163934, 456.68852459016387, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Белые ящики</text>
-		<text id="6" type="text/plain" rect="(381.96721311475403, 648.4918032786886, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Нейронные сети</text>
-		<text id="7" type="text/plain" rect="(380.327868852459, 881.2786885245902, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Бустинг и лес</text>
-		<text id="8" type="text/plain" rect="(963.9344262295082, 509.1475409836064, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Стекинг</text>
-		<text id="9" type="text/markdown" rect="(796.0819672131147, 802.6065573770493, 346.9999999999999, 183.0)" font-family=".AppleSystemUIFont" font-size="16"># Эксперименты
+		<text id="5" type="text/plain" rect="(521.8058808222743, 699.5456674473066, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Белые ящики</text>
+		<text id="6" type="text/plain" rect="(516.887848035389, 891.3489461358314, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Нейронные сети</text>
+		<text id="7" type="text/plain" rect="(515.248503773094, 1124.1358313817327, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Бустинг и лес</text>
+		<text id="8" type="text/plain" rect="(1098.8550611501432, 752.0046838407493, 150.0, 31.0)" font-family=".AppleSystemUIFont" font-size="16">Стекинг</text>
+		<text id="9" type="text/markdown" rect="(931.0026021337496, 1045.463700234192, 346.9999999999999, 183.0)" font-family=".AppleSystemUIFont" font-size="16"># Эксперименты
 
 Пихаем разные модели с подбором гиперпараметров. Смотрим какая из них лучше
 
 СПОЙЛЕР
 Не нейронная сеть!</text>
-		<arrow id="10" start="(1450.0000000000002, 603.409090909091)" end="(1257.9545454545455, 285.22727272727275)" fill="#C1272D" />
+		<arrow id="10" start="(1584.9206349206352, 846.2662337662338)" end="(1392.8751803751804, 528.0844155844155)" fill="#C1272D" />
 	</annotations>
 	<thumbnail />
 	<node_properties>
@@ -125,8 +125,8 @@ bm9ybWFsaXplZF9lc3RpbWF0ZXRvlEsCjBRsb2dfbm9ybWFsaXplZF9wcmljZZRLAnVoIn2UdWJl
 dS4=
 </properties>
 		<properties node_id="2" format="pickle">gASV2R8AAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
-cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAoYAAAEV
-AAAFNwAAAvMAAAKGAAABMQAABTcAAALzAAAAAAAAAAAGwAAAAoYAAAExAAAFNwAAAvOUjBJ1c2Vf
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAAAAAAAl
+AAAGvwAABFwAAAAAAAAAJQAABr8AAARcAAAAAAAAAAAGwAAAAAAAAAAlAAAGvwAABFyUjBJ1c2Vf
 aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZQojBVv
 cmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojBFkb21h
 aW5fcm9sZV9oaW50c5R9lCiMEG5vcm1hbGl6ZWRfcHJpY2WUSwKGlIwJYXZhaWxhYmxllEsAhpSM
@@ -438,10 +438,10 @@ BW1ldGFzlH2UdWJhdS4=
 		<properties node_id="15" format="literal">{'auto_apply': True, 'binary_trees': False, 'controlAreaVisible': True, 'learner_name': '', 'limit_depth': True, 'limit_majority': True, 'limit_min_internal': True, 'limit_min_leaf': True, 'max_depth': 3, 'min_internal': 5, 'min_leaf': 2, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xaa\x00\x00\x014\x00\x00\x04\x02\x00\x00\x02\xc1\x00\x00\x02\xaa\x00\x00\x01P\x00\x00\x04\x02\x00\x00\x02\xc1\x00\x00\x00\x00\x02\x00\x00\x00\x06\xc0\x00\x00\x02\xaa\x00\x00\x01P\x00\x00\x04\x02\x00\x00\x02\xc1', 'sufficient_majority': 95, '__version__': 1}</properties>
 		<properties node_id="16" format="literal">{'auto_apply': True, 'controlAreaVisible': True, 'learner_name': '', 'method_index': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xb8\x00\x00\x01\x03\x00\x00\x03\xf4\x00\x00\x02\xf2\x00\x00\x02\xb8\x00\x00\x01\x1f\x00\x00\x03\xf4\x00\x00\x02\xf2\x00\x00\x00\x00\x02\x00\x00\x00\x06\xc0\x00\x00\x02\xb8\x00\x00\x01\x1f\x00\x00\x03\xf4\x00\x00\x02\xf2', 'catgb_editor': {'colsample_bylevel': 1, 'lambda_index': 55, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True}, 'gb_editor': {'learning_rate': 0.1, 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, 'xgb_editor': {'colsample_bylevel': 1, 'colsample_bynode': 1, 'colsample_bytree': 1, 'lambda_index': 53, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, 'xgbrf_editor': {'colsample_bylevel': 1, 'colsample_bynode': 1, 'colsample_bytree': 1, 'lambda_index': 53, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, '__version__': 1}</properties>
 		<properties node_id="17" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.5, 'learner_name': '', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': None, '__version__': 1}</properties>
-		<properties node_id="18" format="pickle">gASVTQYAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiME3NhdmVk
-V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAaQAAAC5AAAGpAAABAMAAAGkAAAA1QAABqQAAAQD
-AAAAAAAAAAAGwAAAAaQAAADVAAAGpAAABAOUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwWSW5mb3Jt
-YXRpb24gR2FpbiBSYXRpb5SMDUdpbmkgRGVjcmVhc2WUkIwHc29ydGluZ5RLAEsBhpSMC19fdmVy
+		<properties node_id="18" format="pickle">gASVdgYAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiME3NhdmVk
+V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAAAAAAAlAAAGvwAABFwAAAAAAAAAJQAABr8AAARc
+AAAAAAAAAAAGwAAAAAAAAAAlAAAGvwAABFyUjBBzZWxlY3RlZF9tZXRob2RzlI+UKIwNR2luaSBE
+ZWNyZWFzZZSMFkluZm9ybWF0aW9uIEdhaW4gUmF0aW+UkIwHc29ydGluZ5RLAUsBhpSMC19fdmVy
 c2lvbl9flEsEjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdzlIwH
 Q29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwJblNlbGVjdGVklEsFSv7///+GlIwOc2VsZWN0
 ZWRfYXR0cnOUXZSMD3NlbGVjdGlvbk1ldGhvZJRLAkr+////hpRoC0sEdYwKYXR0cmlidXRlc5R9
@@ -463,21 +463,23 @@ AYwFc3R5bGWUSwGMC3JlcGVhdF9zYWxllEsBjAhmZWF0dXJlMZRLAYwIZmVhdHVyZTKUSwGMDW51
 bWJlcl9vZl9kYXmUSwKMC2RheV9vZl93ZWVrlEsBjAxoYXNGb2xsb3dlcnOUSwGMCGhhc0FmdGVy
 lEsBjAhtYW5uZXJPZpRLAYwIY2lyY2xlT2aUSwGMCmlzVW50aXRsZWSUSwGMCmlzTnVtYmVyZWSU
 SwGMFW5vcm1hbGl6ZWRfZXN0aW1hdGV0b5RLAowMbG9nX2VzdGltYXRllEsCjBRsb2dfbm9ybWFs
-aXplZF9wcmljZZRLAnVoPH2UdWJoECmBlH2UKGgTfZQoaBVLBUr+////hpRoF12UaBlLAkr+////
-hpRoC0sEdWgbfZQoaEVLAWhLSwRoTEsBaE1LAWhOSwFoT0sBaFBLAWhRSwJoUksBaFNLAmhUSwJo
-VUsCaFZLAmhXSwFoWEsCaFlLAWhaSwFoW0sBaFxLAWhdSwFoXksBaF9LAmhgSwFoYUsBaGJLAWhj
-SwFoZEsBaGVLAWhmSwFoaUsCdWg8fZR1YmV1Lg==
+aXplZF9wcmljZZRLAnVoPH2UdWJoECmBlH2UKGgTfZQojAluU2VsZWN0ZWSUSwVK/v///4aUjA5z
+ZWxlY3RlZF9hdHRyc5RdlIwPc2VsZWN0aW9uTWV0aG9klEsCSv7///+GlGgLSwR1aBt9lChoRUsB
+aEtLBGhMSwFoTUsBaE5LAWhPSwFoUEsBaFFLAmhSSwFoU0sCaFRLAmhVSwJoVksCaFdLAWhYSwJo
+WUsBaFpLAWhbSwFoXEsBaF1LAWheSwFoX0sCaGBLAWhhSwFoYksBaGNLAWhkSwFoZUsBaGZLAWhp
+SwJ1aDx9lHViZXUu
 </properties>
-		<properties node_id="19" format="pickle">gASVIQIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBFsaW5lX3dpZHRoX21ldGhvZJRL
+		<properties node_id="19" format="pickle">gASVTwIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBFsaW5lX3dpZHRoX21ldGhvZJRL
 AowObWF4X25vZGVfd2lkdGiUS8iMDm1heF90cmVlX2RlcHRolEsCjBFyZWdyZXNzaW9uX2NvbG9y
 c5RLAowTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ0MsAAwAAAAABuAAAAPMAAATzAAADAgAAAbgA
 AAEPAAAE8wAAAwIAAAAAAAAAAAbAAAABuAAAAQ8AAATzAAADApSMEXNob3dfaW50ZXJtZWRpYXRl
 lIiMBHpvb22USwSMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdl
 d2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwSdGFyZ2V0X2Ns
-YXNzX2luZGV4lEsAaApLAXWMB2NsYXNzZXOUTnViaA8pgZR9lChoEn2UKGgUSwBoCksBdWgVTnVi
-aA8pgZR9lChoEn2UKIwSdGFyZ2V0X2NsYXNzX2luZGV4lEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9
-lChoHEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lChoHEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lCho
-HEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lChoHEsAaApLAXVoFU51YmV1Lg==
+YXNzX2luZGV4lEsAaApLAXWMB2NsYXNzZXOUTnViaA8pgZR9lChoEn2UKIwSdGFyZ2V0X2NsYXNz
+X2luZGV4lEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lChoGUsAaApLAXVoFU51YmgPKYGUfZQoaBJ9
+lCiMEnRhcmdldF9jbGFzc19pbmRleJRLAGgKSwF1aBVOdWJoDymBlH2UKGgSfZQoaCBLAGgKSwF1
+aBVOdWJoDymBlH2UKGgSfZQoaCBLAGgKSwF1aBVOdWJoDymBlH2UKGgSfZQoaCBLAGgKSwF1aBVO
+dWJoDymBlH2UKGgSfZQoaCBLAGgKSwF1aBVOdWJldS4=
 </properties>
 		<properties node_id="20" format="literal">{'auto_apply': True, 'controlAreaVisible': True, 'learner_name': '', 'method_index': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xb8\x00\x00\x01\x03\x00\x00\x03\xf4\x00\x00\x02\xf2\x00\x00\x02\xb8\x00\x00\x01\x1f\x00\x00\x03\xf4\x00\x00\x02\xf2\x00\x00\x00\x00\x02\x00\x00\x00\x06\xc0\x00\x00\x02\xb8\x00\x00\x01\x1f\x00\x00\x03\xf4\x00\x00\x02\xf2', 'catgb_editor': {'colsample_bylevel': 1, 'lambda_index': 55, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True}, 'gb_editor': {'learning_rate': 0.1, 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, 'xgb_editor': {'colsample_bylevel': 1, 'colsample_bynode': 1, 'colsample_bytree': 1, 'lambda_index': 53, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, 'xgbrf_editor': {'colsample_bylevel': 1, 'colsample_bynode': 1, 'colsample_bytree': 1, 'lambda_index': 53, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100, 'random_state': True, 'subsample': 1}, '__version__': 1}</properties>
 		<properties node_id="21" format="literal">{'auto_save': False, 'controlAreaVisible': True, 'filter': 'Pickled model (*.pkcls)', 'savedWidgetGeometry': None, 'stored_name': '', 'stored_path': '', '__version__': 1}</properties>
