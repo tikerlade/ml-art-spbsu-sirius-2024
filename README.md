@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="250px" alt="Sirius 2024 ML & Art" src="./pics/course_roadmap_and_logo.png">
+    <img alt="Sirius 2024 ML & Art" src="./pics/course_roadmap_and_logo.png">
 </p>
 В этом репозитории будут находиться задания для зимней школы СПбГУ для 11-классников, которая будет проходить в Сириусе с 9 по 13 января 2024 года.
 
