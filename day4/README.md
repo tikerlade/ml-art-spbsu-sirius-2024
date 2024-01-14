@@ -1,5 +1,5 @@
 # День 4. Предсказание цены по изображению картины
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xXDgiXnyrp6rgYiDLISNmelksSbr4HBV?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Opy2nQ2gyTGdLas9C7xhdO4xYTNEVevH?usp=drive_link)
 
 <p align="right">
     <img alt="Day 4 logo" src="./../pics/day4_logo.png">
