@@ -13,3 +13,10 @@
 
 ## Домашнее задание
 Дописать подсчет метрики эстетичности `METRIC`, обучить модели, посмотреть, что стало лучше.
+
+## Статьи
+Ссылки на статьи, рассмотренные на лекции:
+* [History of art paintings through the lens of entropy and complexity](https://www.pnas.org/doi/full/10.1073/pnas.1800083115)
+* [Measuring colourfulness in natural images (pdf)](https://infoscience.epfl.ch/record/33994/files/HaslerS03.pdf)
+* [Computational aesthetics and applications (pdf)](https://www.researchgate.net/publication/327447399_Computational_aesthetics_and_applications/fulltext/5b900d0aa6fdcc327e4586dd/Computational-aesthetics-and-applications.pdf?origin=publicationDetail&_sg%5B0%5D=mfaLMeGqdqOC52idfEvvnlspEPtGJ-uxuO6ljpZKm5wULsEND8S2upR3njgy9FFFsJHvdpBZxwu9Mv0sRuL8kA.ZN423jc5gOmJSm15_QMbbo6yGFika_6sO1wo4rmF1X1ljL2c75HkKVg-cqXgTmHPcr9-UZZ4btx-EUSy_C8BKQ&_sg%5B1%5D=frr6J38fvL68b9aiHCcvimomQIb6Z_Kx-Rajy-HUIFeZj9iws_WtNyKnj-r-HYVBHQTjuBWV18WvuBlKQeC67LN0MWSPvuPGdX8DLrWAm75V.ZN423jc5gOmJSm15_QMbbo6yGFika_6sO1wo4rmF1X1ljL2c75HkKVg-cqXgTmHPcr9-UZZ4btx-EUSy_C8BKQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)
+* [Inkthetics: A Comprehensive Computational Model for Aesthetic Evaluation of Chinese Ink Paintings](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9293299)
