@@ -3,7 +3,7 @@
     <img width="600" alt="Результат Дня №1" src="./../pics/day1_orange_pipeline.png">
 </p>
 
-[День 1](https://drive.google.com/drive/folders/1XK6umMuGDUL4eB779CHOYX_Jj0xb1Z0H?usp=sharing) - облако, в которм лежат материалы этого дня (слайды, запись занятия).
+Материалы курса Дня №1 (презентации, записи занятий) доступны в [Яндекс.Диске](https://disk.yandex.ru/d/jdzIgPvWkKRw7w)
 
 *В будущем тут может появиться краткий обзор Дня 1*
 

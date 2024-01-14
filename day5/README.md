@@ -1,6 +1,8 @@
 # День 5. Генерация самой дорогой картины
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c7KRORr4v8EREWy09xIxp_x8Cth7TjnS?usp=sharing)
 
+Запись занятия Дня №5 доступна в [Яндекс.Диске](https://disk.yandex.ru/d/jdzIgPvWkKRw7w)
+
 Воспользуемся Шедеврумом, попробуем модели, доступные через Hugging Face, и попробуем сгенерировать шедевр, который будет стоить самых больших денег! Оценку стоимости будем производить моделью, обученной днем ранее.
 * [Шедеврум](https://shedevrum.ai/) - можно генерировать картинки по описанию, и без использования кода;
 * [Text-To-Image HuggingFace](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending) - генерировать картинки по тексту можно с помощью Python, так гораздо быстрее можно перебрать несколько параметров.
